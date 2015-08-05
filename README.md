@@ -6,7 +6,6 @@ But it seemed not to provide a package download function,so you must download th
 
 This chrome extension can help you auto-download images you upload in tinypng.com
 ## How To Install
-TinyPNGHelper is a very useful extension
 * First download TinyPNGHelper.crx
 * Open Chrome->Settings->Extensions
 * Drag TinyPNGHelper.crx into extensions
