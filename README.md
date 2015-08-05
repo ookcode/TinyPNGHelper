@@ -21,4 +21,4 @@ This chrome extension can help you auto-download images you upload in tinypng.co
 ## Also
 You can view the source code of this extension.
 
-I think it will be a good simple demo for you to develop chrome extension.
+I hope it will be a simple demo to help you develop chrome extension.
