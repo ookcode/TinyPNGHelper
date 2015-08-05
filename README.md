@@ -1,6 +1,6 @@
 # TinyPNGHelper
 ## Introduction
-https://tinypng.com/ is a amazing website to compression for PNG images.
+https://tinypng.com/ is a amazing website to compress PNG images.
 
 But it did not provide a package download function,so you must download the image one by one.
 
