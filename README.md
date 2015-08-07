@@ -9,7 +9,7 @@ This chrome extensions can help you auto-download images you upload in tinypng.c
 * First download TinyPNGHelper.crx
 * Open Chrome->Settings->Extensions
 * Drag TinyPNGHelper.crx into extensions
-* Click allow,you will see the panda icon in top right corner
+* Click allow, you will see the panda icon in top right corner
 
 ## How To Use
 * Open https://tinypng.com/
