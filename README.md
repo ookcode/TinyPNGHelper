@@ -5,6 +5,7 @@ https://tinypng.com/ is a amazing website to compress PNG images.
 But it did not provide a package download function,so you must download the image one by one.
 
 This chrome extensions can help you auto-download images you upload in tinypng.com.
+
 ## How To Install
 * First download TinyPNGHelper.crx
 * Open Chrome->Settings->Extensions
