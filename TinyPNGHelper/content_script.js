@@ -4,7 +4,7 @@ do
 var host = window.location.host;
 if(host.indexOf("tinypng.com") == -1)
 {
-	alert("This extension can only be used in tinypng.com");
+	window.open("https://tinypng.com/");
 	break;
 }
 var htmlstr = document.body.innerHTML;
